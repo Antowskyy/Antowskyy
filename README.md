@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 &nbsp;O mnie
 
 👨‍💻 &nbsp;Cześć, jestem Michał.\
-💡 &nbsp;Zajmuję się serwerami Minecraft, szczególnie ich stroną techniczną.\
+💡 &nbsp;Zajmuję się serwerami Minecraft, szczególnie ich stroną techniczną.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -15,11 +15,11 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
-### 🗃 &nbsp;Bazy danych
+### 🗃 &nbsp;Bazy danych i systemy przesyłania wiadomości
 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
+![NATS](https://img.shields.io/badge/NATS-27AAE1.svg?style=for-the-badge&logo=natsdotio&logoColor=white)&nbsp;
 
 ### 🧰 &nbsp;Narzędzia
 
